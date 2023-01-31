@@ -1,0 +1,7 @@
+name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
+"Satya Nadella,""C:\Users\DELL GAMING\Desktop\Org Chart\1200px-MS-Exec-Nadella-Satya-2017-08-31-22_(cropped).jpg"",Corporate,,CTO office,""Ceo,tag1,manager,cto"",false,Chairman & Chief Executive Officer ,001,,"
+"Judson Althoff,""C:\Users\DELL GAMING\Desktop\Org Chart\BQVDGwbG_400x400.jpg"",Corporate,,CEO office,""Ceo,tag1, tag2"",false,Executive VP ,002,001,"
+"Chris Capossela,""C:\Users\DELL GAMING\Desktop\Org Chart\Capossela_print.jpg"",Corporate,,CEO office,""Ceo,tag1, tag2"",false,Chief Marketing Officer ,003,001,"
+"Kathleen Hogan,""C:\Users\DELL GAMING\Desktop\Org Chart\Hogan, Kathleen_2020.jpg"",Corporate,,CEO office,""Ceo,tag1, tag2"",false,HR Chief ,004,001,"
+"Brad Smith,""C:\Users\DELL GAMING\Desktop\Org Chart\0EoCkMRa_400x400.jpg"",Corporate,http://example.com/employee/profile,CEO office,""Ceo,tag1, tag2"",false,Marketing VP ,005,003,"
+"Mona Lisa,""C:\Users\DELL GAMING\Desktop\Org Chart\800px-Gioconda_(copia_del_Museo_del_Prado_restaurada).jpg"",Corporate,,CEO office,""Ceo,tag1, tag2"",false,Art Manager,006,004,"
