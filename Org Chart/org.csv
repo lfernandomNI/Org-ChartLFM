@@ -1,7 +1,7 @@
 name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
-Satya Nadella,"https://github.com/lfernandomNI/Org-ChartLFM/blob/79ad329d6dee8bba2132d581d687f0658483034d/Org%20Chart/1200px-MS-Exec-Nadella-Satya-2017-08-31-22_(cropped).jpg",Corporate,,CTO office,"Ceo,tag1,manager,cto",false,Chairman & Chief Executive Officer ,001,,
-Judson Althoff,"https://github.com/lfernandomNI/Org-ChartLFM/blob/79ad329d6dee8bba2132d581d687f0658483034d/Org%20Chart/BQVDGwbG_400x400.jpg",Corporate,,CEO office,"Ceo,tag1, tag2",false,Executive VP ,002,001,
-Chris Capossela,"https://github.com/lfernandomNI/Org-ChartLFM/blob/79ad329d6dee8bba2132d581d687f0658483034d/Org%20Chart/Capossela_print.jpg",Corporate,,CEO office,"Ceo,tag1, tag2",false,Chief Marketing Officer ,003,001,
-Kathleen Hogan,"https://github.com/lfernandomNI/Org-ChartLFM/blob/79ad329d6dee8bba2132d581d687f0658483034d/Org%20Chart/Hogan,%20Kathleen_2020.jpg",Corporate,,CEO office,"Ceo,tag1, tag2",false,HR Chief ,004,001,
-Brad Smith,"https://github.com/lfernandomNI/Org-ChartLFM/blob/79ad329d6dee8bba2132d581d687f0658483034d/Org%20Chart/0EoCkMRa_400x400.jpg",Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,Marketing VP ,005,003,
-Mona Lisa,"https://github.com/lfernandomNI/Org-ChartLFM/blob/79ad329d6dee8bba2132d581d687f0658483034d/Org%20Chart/800px-Gioconda_(copia_del_Museo_del_Prado_restaurada).jpg",Corporate,,CEO office,"Ceo,tag1, tag2",false,Art Manager,006,004,
+Satya Nadella,"https://raw.githubusercontent.com/lfernandomNI/Org-ChartLFM/main/Org%20Chart/1200px-MS-Exec-Nadella-Satya-2017-08-31-22_(cropped).jpg",Corporate,,CTO office,"Ceo,tag1,manager,cto",false,Chairman & Chief Executive Officer ,001,,
+Judson Althoff,"https://raw.githubusercontent.com/lfernandomNI/Org-ChartLFM/main/Org%20Chart/0EoCkMRa_400x400.jpg",Corporate,,CEO office,"Ceo,tag1, tag2",false,Executive VP ,002,001,
+Chris Capossela,"https://raw.githubusercontent.com/lfernandomNI/Org-ChartLFM/main/Org%20Chart/Capossela_print.jpg",Corporate,,CEO office,"Ceo,tag1, tag2",false,Chief Marketing Officer ,003,001,
+Kathleen Hogan,"https://raw.githubusercontent.com/lfernandomNI/Org-ChartLFM/main/Org%20Chart/Hogan%2C%20Kathleen_2020.jpg",Corporate,,CEO office,"Ceo,tag1, tag2",false,HR Chief ,004,001,
+Brad Smith,"https://raw.githubusercontent.com/lfernandomNI/Org-ChartLFM/main/Org%20Chart/BQVDGwbG_400x400.jpg",Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,Marketing VP ,005,003,
+Mona Lisa,"https://raw.githubusercontent.com/lfernandomNI/Org-ChartLFM/main/Org%20Chart/800px-Gioconda_(copia_del_Museo_del_Prado_restaurada).jpg",Corporate,,CEO office,"Ceo,tag1, tag2",false,Art Manager,006,004,
